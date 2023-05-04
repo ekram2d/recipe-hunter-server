@@ -1,0 +1,429 @@
+
+
+[
+      {
+        "id": 1,
+        "inque_id": 101,
+        "chef_name": "Chef John",
+        "recipe_name": "Classic Cheeseburger",
+        "ingredients": [
+          "1 lb. ground beef",
+          "1 tsp. salt",
+          "1/4 tsp. black pepper",
+          "4 slices American cheese",
+          "4 hamburger buns",
+          "Lettuce, tomato, onion, ketchup, and mustard for serving"
+        ],
+        "cooking_method": "Preheat a grill or grill pan to medium-high heat. In a large bowl, combine the ground beef, salt, and pepper. Mix gently with your hands and form into 4 equal-sized patties. Grill the burgers for 3-4 minutes per side, or until cooked to your desired level of doneness. Add a slice of cheese to each burger during the last minute of cooking. Serve on hamburger buns with your choice of toppings.",
+        "rating": 4.5,
+        "isFavorite": false
+      },
+      {
+        "id": 2,
+        "inque_id": 102,
+        "chef_name": "Chef Maria",
+        "recipe_name": "Spaghetti Carbonara",
+        "ingredients": [
+          "1 lb. spaghetti",
+          "1/2 lb. bacon, diced",
+          "4 cloves garlic, minced",
+          "4 eggs",
+          "1 cup grated Parmesan cheese",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "Cook the spaghetti in a large pot of salted boiling water until al dente. Meanwhile, cook the bacon in a large skillet over medium heat until crispy. Add the garlic and cook for 1 minute. In a separate bowl, whisk together the eggs and Parmesan cheese. Drain the spaghetti and add it to the skillet with the bacon and garlic. Toss to combine. Remove the skillet from the heat and add the egg mixture, stirring constantly until the eggs are cooked and the sauce is creamy. Season with salt and pepper to taste.",
+        "rating": 4.8,
+        "isFavorite": false
+      },
+      {
+        "id": 3,
+        "inque_id": 103,
+        "chef_name": "Chef David",
+        "recipe_name": "Homemade Pizza",
+        "ingredients": [
+          "1 lb. pizza dough",
+          "1/2 cup pizza sauce",
+          "1 cup shredded mozzarella cheese",
+          "1/2 cup sliced pepperoni",
+          "1/4 cup sliced black olives",
+          "1/4 cup diced green bell pepper"
+        ],
+        "cooking_method": "Preheat the oven to 425°F. Roll out the pizza dough on a floured surface and transfer it to a pizza pan. Spread the pizza sauce evenly over the dough, leaving a 1/2-inch border around the edges. Sprinkle the shredded mozzarella cheese over the sauce. Arrange the pepperoni, black olives, and green bell pepper over the cheese. Bake for 12-15 minutes, or until the crust is golden brown and the cheese is melted and bubbly. Slice and serve hot.",
+        "rating": 4.3,
+        "isFavorite": false
+      },
+      {
+        "id": 4,
+        "inque_id": 104,
+        "chef_name": "Chef John",
+        "recipe_name": "Chicken Parmesan",
+        "ingredients": [
+          "4 boneless, skinless chicken breasts",
+          "1/2 cup all-purpose flour",
+          "2 eggs, beaten",
+          "1 cup seasoned breadcrumbs",
+          "1 cup marinara sauce",
+          "1 cup shredded mozzarella cheese",
+          "1/4 cup grated Parmesan cheese",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "Preheat the oven to 375°F. Place the flour, beaten eggs, and breadcrumbs in separate shallow bowls. Season the chicken breasts with salt and pepper, then dredge them in the flour, shaking off any excess. Dip the chicken in the beaten eggs, then coat in the breadcrumbs, pressing them onto the chicken to adhere. Heat a large skillet over medium-high heat and add enough oil to coat the bottom of the pan. Add the chicken and cook for 2-3 minutes per side, or until golden brown and cooked through. Remove the chicken from the skillet and place in a baking dish. Top each chicken breast with a spoonful of marinara sauce, then sprinkle with mozzarella and Parmesan cheese. Bake for 15-20 minutes, or until the cheese is melted and bubbly. Serve hot with additional marinara sauce if desired.",
+        "rating": 4.7,
+        "isFavorite": false
+      },
+      {
+        "id": 5,
+        "inque_id": 105,
+        "chef_name": "Chef Jamie",
+        "recipe_name": "Spaghetti Carbonara",
+        "ingredients": [
+          "1 lb spaghetti",
+          "6 oz pancetta or bacon, diced",
+          "4 large eggs",
+          "1 cup grated Parmesan cheese",
+          "1/2 cup heavy cream",
+          "Salt and pepper to taste",
+          "Chopped parsley for garnish"
+        ],
+        "cooking_method": "Bring a large pot of salted water to a boil. Add the spaghetti and cook according to package directions until al dente. While the spaghetti is cooking, heat a large skillet over medium-high heat. Add the diced pancetta or bacon and cook until crispy, stirring occasionally. In a medium bowl, whisk together the eggs, Parmesan cheese, heavy cream, salt, and pepper. Drain the cooked spaghetti and add it to the skillet with the pancetta. Remove the skillet from the heat and pour the egg mixture over the spaghetti, stirring quickly to coat the pasta evenly. The heat from the spaghetti and pancetta will cook the eggs and create a creamy sauce. Serve hot, garnished with chopped parsley if desired.",
+        "rating": 4.5,
+        "isFavorite": true
+      },
+      {
+        "id": 6,
+        "inque_id": 106,
+        "chef_name": "Chef Emma",
+        "recipe_name": "Beef Stroganoff",
+        "ingredients": [
+          "1 lb beef sirloin, sliced into thin strips",
+          "1 onion, diced",
+          "8 oz sliced mushrooms",
+          "2 cloves garlic, minced",
+          "1 cup beef broth",
+          "1 cup sour cream",
+          "2 tbsp flour",
+          "2 tbsp olive oil",
+          "Salt and pepper to taste",
+          "Chopped parsley for garnish"
+        ],
+        "cooking_method": "Heat the olive oil in a large skillet over medium-high heat. Add the sliced beef and cook until browned, stirring occasionally. Remove the beef from the skillet and set aside. Add the diced onion and sliced mushrooms to the same skillet and cook until softened and browned, stirring occasionally. Add the minced garlic and cook for another minute. Sprinkle the flour over the vegetables and stir to coat. Slowly pour in the beef broth, stirring constantly to prevent lumps. Bring the mixture to a simmer and cook for 5-10 minutes, or until the sauce has thickened. Return the beef to the skillet and stir in the sour cream. Cook for another 2-3 minutes, or until heated through. Season with salt and pepper to taste. Serve hot, garnished with chopped parsley if desired.",
+        "rating": 4.8,
+        "isFavorite": true
+      },
+      {
+        "id": 7,
+        "inque_id": 107,
+        "chef_name": "Chef John",
+        "recipe_name": "Beef and Broccoli Stir Fry",
+        "ingredients": [
+          "1 lb flank steak, sliced into thin strips",
+          "1 head broccoli, cut into small florets",
+          "1 red bell pepper, sliced into thin strips",
+          "1 onion, sliced",
+          "2 cloves garlic, minced",
+          "2 tbsp soy sauce",
+          "2 tbsp oyster sauce",
+          "2 tbsp cornstarch",
+          "2 tbsp water",
+          "2 tbsp vegetable oil",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "In a small bowl, whisk together the soy sauce, oyster sauce, cornstarch, and water. Set aside. Heat a large skillet or wok over high heat. Add the vegetable oil and swirl to coat the bottom of the pan. Add the sliced beef and stir fry for 2-3 minutes, or until browned. Remove the beef from the skillet and set aside. Add the broccoli, red bell pepper, and onion to the same skillet and stir fry for 3-4 minutes, or until the vegetables are crisp-tender. Add the minced garlic and stir fry for another 30 seconds. Return the beef to the skillet and pour the soy sauce mixture over the top. Stir fry for another 1-2 minutes, or until the sauce has thickened and the beef is heated through. Season with salt and pepper to taste. Serve hot over rice or noodles.",
+        "rating": 4.6,
+        "isFavorite": false
+      },
+      {
+        "id": 7,
+        "inque_id": 108,
+        "chef_name": "Chef Maria",
+        "recipe_name": "Shrimp Scampi",
+        "ingredients": [
+          "1 lb large shrimp, peeled and deveined",
+          "1 lb linguine",
+          "4 cloves garlic, minced",
+          "1/2 cup dry white wine",
+          "1/2 cup chicken broth",
+          "2 tbsp lemon juice",
+          "1/4 cup unsalted butter",
+          "2 tbsp olive oil",
+          "1/4 tsp red pepper flakes",
+          "Salt and pepper to taste",
+          "Chopped parsley for garnish"
+        ],
+        "cooking_method": "Cook the linguine in a large pot of salted boiling water according to package instructions. Drain and set aside. Meanwhile, in a large skillet, heat the olive oil over medium-high heat. Add the minced garlic and red pepper flakes and sauté for 30 seconds, or until fragrant. Add the white wine, chicken broth, and lemon juice to the skillet and bring to a simmer. Add the shrimp to the skillet and cook for 2-3 minutes on each side, or until pink and cooked through. Remove the shrimp from the skillet and set aside. Add the butter to the skillet and stir until melted. Add the cooked linguine to the skillet and toss to coat with the sauce. Season with salt and pepper to taste. Serve hot, topped with the cooked shrimp and chopped parsley.",
+        "rating": 4.9,
+        "isFavorite": true
+      },
+      {
+        "id": 6,
+        "inque_id": 109,
+        "chef_name": "Chef John",
+        "recipe_name": "Chicken Alfredo",
+        "ingredients": [
+          "1 lb boneless, skinless chicken breast, cut into bite-size pieces",
+          "1 lb fettuccine",
+          "4 cloves garlic, minced",
+          "2 cups heavy cream",
+          "1/2 cup grated Parmesan cheese",
+          "1/4 cup unsalted butter",
+          "2 tbsp olive oil",
+          "Salt and pepper to taste",
+          "Chopped parsley for garnish"
+        ],
+        "cooking_method": "Cook the fettuccine in a large pot of salted boiling water according to package instructions. Drain and set aside. Meanwhile, in a large skillet, heat the olive oil over medium-high heat. Add the chicken pieces and sauté for 5-7 minutes, or until cooked through. Remove the chicken from the skillet and set aside. Add the minced garlic to the skillet and sauté for 30 seconds, or until fragrant. Add the heavy cream and Parmesan cheese to the skillet and stir until the cheese is melted and the sauce is smooth. Add the cooked fettuccine and cooked chicken to the skillet and toss to coat with the sauce. Season with salt and pepper to taste. Serve hot, topped with chopped parsley.",
+        "rating": 4.7,
+        "isFavorite": false
+      },
+      {
+        "id": 5,
+        "inque_id": 110,
+        "chef_name": "Chef Maria",
+        "recipe_name": "Pesto Pasta",
+        "ingredients": [
+          "1 lb linguine",
+          "2 cups fresh basil leaves, packed",
+          "3 cloves garlic, minced",
+          "1/2 cup grated Parmesan cheese",
+          "1/2 cup pine nuts",
+          "1/2 cup olive oil",
+          "Salt and pepper to taste",
+          "Cherry tomatoes and chopped parsley for garnish"
+        ],
+        "cooking_method": "Cook the linguine in a large pot of salted boiling water according to package instructions. Drain and set aside. Meanwhile, in a food processor, combine the basil leaves, minced garlic, grated Parmesan cheese, and pine nuts. Process until smooth. With the food processor running, slowly pour in the olive oil and process until the pesto is emulsified. Season the pesto with salt and pepper to taste. Add the cooked linguine to a large bowl and toss with the pesto until well coated. Serve hot, topped with cherry tomatoes and chopped parsley.",
+        "rating": 4.8,
+        "isFavorite": true
+      },
+      {
+        "id": 4,
+        "inque_id": 111,
+        "chef_name": "Chef John",
+        "recipe_name": "Beef Stroganoff",
+        "ingredients": [
+          "1 lb sirloin steak, thinly sliced",
+          "1 lb egg noodles",
+          "1 onion, diced",
+          "4 cloves garlic, minced",
+          "1 cup beef broth",
+          "1 cup sour cream",
+          "2 tbsp tomato paste",
+          "2 tbsp unsalted butter",
+          "2 tbsp olive oil",
+          "Salt and pepper to taste",
+          "Chopped parsley for garnish"
+        ],
+        "cooking_method": "Cook the egg noodles in a large pot of salted boiling water according to package instructions. Drain and set aside. Meanwhile, in a large skillet, heat the olive oil over medium-high heat. Add the sliced sirloin steak and sauté for 2-3 minutes, or until browned. Remove the steak from the skillet and set aside. Add the diced onion and minced garlic to the skillet and sauté for 2-3 minutes, or until the onion is translucent. Add the tomato paste to the skillet and stir to combine with the onion and garlic. Add the beef broth to the skillet and bring to a simmer. Reduce the heat to medium-low and stir in the sour cream. Add the cooked egg noodles and cooked steak to the skillet and toss to coat with the sauce. Season with salt and pepper to taste. Serve hot, topped with chopped parsley.",
+        "rating": 4.6,
+        "isFavorite": false
+      },
+      {
+        "id": 3,
+        "inque_id": 112,
+        "chef_name": "Chef Maria",
+        "recipe_name": "Spaghetti and Meatballs",
+        "ingredients": [
+          "1 lb spaghetti",
+          "1 lb ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1/2 cup breadcrumbs",
+          "1/2 cup grated Parmesan cheese",
+          "1 egg, beaten",
+          "1/4 cup milk",
+          "2 tbsp olive oil",
+          "1 jar (24 oz) spaghetti sauce",
+          "Salt and pepper to taste",
+          "Chopped parsley for garnish"
+        ],
+        "cooking_method": "Cook the spaghetti in a large pot of salted boiling water according to package instructions. Drain and set aside. Meanwhile, in a large bowl, combine the ground beef, diced onion, minced garlic, breadcrumbs, grated Parmesan cheese, beaten egg, and milk. Season the mixture with salt and pepper to taste and mix well. Roll the mixture into meatballs about 1 inch in diameter. Heat the olive oil in a large skillet over medium-high heat. Add the meatballs and cook for 2-3 minutes, or until browned on all sides. Remove the meatballs from the skillet and set aside. Add the spaghetti sauce to the skillet and bring to a simmer. Add the meatballs to the skillet and toss to coat with the sauce. Reduce the heat to medium-low and simmer for 10-15 minutes, or until the meatballs are cooked through. Serve the meatballs and sauce over the cooked spaghetti. Garnish with chopped parsley.",
+        "rating": 4.7,
+        "isFavorite": false
+      },
+      {
+        "id": 2,
+        "inque_id": 113,
+        "chef_name": "Chef John",
+        "recipe_name": "Chicken Parmesan",
+        "ingredients": [
+          "4 boneless, skinless chicken breasts",
+          "1 cup Italian-seasoned breadcrumbs",
+          "1/2 cup grated Parmesan cheese",
+          "1/2 cup all-purpose flour",
+          "2 eggs, beaten",
+          "2 cups marinara sauce",
+          "2 cups shredded mozzarella cheese",
+          "2 tbsp olive oil",
+          "Salt and pepper to taste",
+          "Chopped parsley for garnish"
+        ],
+        "cooking_method": "Preheat the oven to 375°F (190°C). Place the flour, beaten eggs, and Italian-seasoned breadcrumbs in separate bowls. Season the chicken breasts with salt and pepper to taste. Coat each chicken breast in the flour, then dip in the beaten eggs, and coat in the breadcrumbs, pressing the breadcrumbs onto the chicken to adhere. Heat the olive oil in a large skillet over medium-high heat. Add the chicken breasts and cook for 2-3 minutes per side, or until golden brown. Remove the chicken from the skillet and set aside. Pour the marinara sauce into the skillet and bring to a simmer. Place the chicken breasts on top of the sauce, spooning some of the sauce over the chicken. Sprinkle the shredded mozzarella cheese over the chicken. Bake for 25-30 minutes, or until the chicken is cooked through and the cheese is melted and bubbly. Garnish with chopped parsley and serve hot.",
+        "rating": 4.9,
+        "isFavorite": false
+      },
+      {
+        "id": 1,
+        "inque_id": 114,
+        "chef_name": "Chef John",
+        "recipe_name": "Lemon Chicken",
+        "ingredients": [
+          "4 boneless, skinless chicken breasts",
+          "1/4 cup all-purpose flour",
+          "Salt and pepper to taste",
+          "2 tbsp olive oil",
+          "2 tbsp butter",
+          "1/2 cup chicken broth",
+          "1/4 cup lemon juice",
+          "1/4 cup capers",
+          "Chopped parsley for garnish"
+        ],
+        "cooking_method": "Place the flour in a shallow bowl and season with salt and pepper to taste. Dredge the chicken breasts in the flour, shaking off any excess. Heat the olive oil and butter in a large skillet over medium-high heat. Add the chicken breasts and cook for 4-5 minutes per side, or until golden brown and cooked through. Remove the chicken from the skillet and set aside. Add the chicken broth, lemon juice, and capers to the skillet, scraping up any browned bits from the bottom of the skillet. Simmer for 2-3 minutes, or until the sauce has thickened slightly. Return the chicken to the skillet and spoon some of the sauce over the chicken. Garnish with chopped parsley and serve hot.",
+        "rating": 4.7,
+        "isFavorite": false
+      },
+      {
+        "id": 2,
+        "inque_id": 108,
+        "chef_name": "Chef Maria",
+        "recipe_name": "Shrimp Scampi",
+        "ingredients": [
+          "1 lb large shrimp, peeled and deveined",
+          "1 lb linguine",
+          "4 cloves garlic, minced",
+          "1/2 cup dry white wine",
+          "1/2 cup chicken broth",
+          "2 tbsp lemon juice",
+          "1/4 cup unsalted butter",
+          "2 tbsp olive oil",
+          "1/4 tsp red pepper flakes",
+          "Salt and pepper to taste",
+          "Chopped parsley for garnish"
+        ],
+        "cooking_method": "Cook the linguine in a large pot of salted boiling water according to package instructions. Drain and set aside. Meanwhile, in a large skillet, heat the olive oil over medium-high heat. Add the minced garlic and red pepper flakes and sauté for 30 seconds, or until fragrant. Add the white wine, chicken broth, and lemon juice to the skillet and bring to a simmer. Add the shrimp to the skillet and cook for 2-3 minutes on each side, or until pink and cooked through. Remove the shrimp from the skillet and set aside. Add the butter to the skillet and stir until melted. Add the cooked linguine to the skillet and toss to coat with the sauce. Season with salt and pepper to taste. Serve hot, topped with the cooked shrimp and chopped parsley.",
+        "rating": 4.9,
+        "isFavorite": true
+      },
+      {
+        "id": 1,
+        "inque_id": 109,
+        "chef_name": "Chef John",
+        "recipe_name": "Chicken Alfredo",
+        "ingredients": [
+          "1 lb boneless, skinless chicken breast, cut into bite-size pieces",
+          "1 lb fettuccine",
+          "4 cloves garlic, minced",
+          "2 cups heavy cream",
+          "1/2 cup grated Parmesan cheese",
+          "1/4 cup unsalted butter",
+          "2 tbsp olive oil",
+          "Salt and pepper to taste",
+          "Chopped parsley for garnish"
+        ],
+        "cooking_method": "Cook the fettuccine in a large pot of salted boiling water according to package instructions. Drain and set aside. Meanwhile, in a large skillet, heat the olive oil over medium-high heat. Add the chicken pieces and sauté for 5-7 minutes, or until cooked through. Remove the chicken from the skillet and set aside. Add the minced garlic to the skillet and sauté for 30 seconds, or until fragrant. Add the heavy cream and Parmesan cheese to the skillet and stir until the cheese is melted and the sauce is smooth. Add the cooked fettuccine and cooked chicken to the skillet and toss to coat with the sauce. Season with salt and pepper to taste. Serve hot, topped with chopped parsley.",
+        "rating": 4.7,
+        "isFavorite": false
+      },
+      {
+        "id": 4,
+        "inque_id": 110,
+        "chef_name": "Chef Maria",
+        "recipe_name": "Pesto Pasta",
+        "ingredients": [
+          "1 lb linguine",
+          "2 cups fresh basil leaves, packed",
+          "3 cloves garlic, minced",
+          "1/2 cup grated Parmesan cheese",
+          "1/2 cup pine nuts",
+          "1/2 cup olive oil",
+          "Salt and pepper to taste",
+          "Cherry tomatoes and chopped parsley for garnish"
+        ],
+        "cooking_method": "Cook the linguine in a large pot of salted boiling water according to package instructions. Drain and set aside. Meanwhile, in a food processor, combine the basil leaves, minced garlic, grated Parmesan cheese, and pine nuts. Process until smooth. With the food processor running, slowly pour in the olive oil and process until the pesto is emulsified. Season the pesto with salt and pepper to taste. Add the cooked linguine to a large bowl and toss with the pesto until well coated. Serve hot, topped with cherry tomatoes and chopped parsley.",
+        "rating": 4.8,
+        "isFavorite": true
+      },
+      {
+        "id": 3,
+        "inque_id": 111,
+        "chef_name": "Chef John",
+        "recipe_name": "Beef Stroganoff",
+        "ingredients": [
+          "1 lb sirloin steak, thinly sliced",
+          "1 lb egg noodles",
+          "1 onion, diced",
+          "4 cloves garlic, minced",
+          "1 cup beef broth",
+          "1 cup sour cream",
+          "2 tbsp tomato paste",
+          "2 tbsp unsalted butter",
+          "2 tbsp olive oil",
+          "Salt and pepper to taste",
+          "Chopped parsley for garnish"
+        ],
+        "cooking_method": "Cook the egg noodles in a large pot of salted boiling water according to package instructions. Drain and set aside. Meanwhile, in a large skillet, heat the olive oil over medium-high heat. Add the sliced sirloin steak and sauté for 2-3 minutes, or until browned. Remove the steak from the skillet and set aside. Add the diced onion and minced garlic to the skillet and sauté for 2-3 minutes, or until the onion is translucent. Add the tomato paste to the skillet and stir to combine with the onion and garlic. Add the beef broth to the skillet and bring to a simmer. Reduce the heat to medium-low and stir in the sour cream. Add the cooked egg noodles and cooked steak to the skillet and toss to coat with the sauce. Season with salt and pepper to taste. Serve hot, topped with chopped parsley.",
+        "rating": 4.6,
+        "isFavorite": false
+      },
+      {
+        "id": 6,
+        "inque_id": 112,
+        "chef_name": "Chef Maria",
+        "recipe_name": "Spaghetti and Meatballs",
+        "ingredients": [
+          "1 lb spaghetti",
+          "1 lb ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1/2 cup breadcrumbs",
+          "1/2 cup grated Parmesan cheese",
+          "1 egg, beaten",
+          "1/4 cup milk",
+          "2 tbsp olive oil",
+          "1 jar (24 oz) spaghetti sauce",
+          "Salt and pepper to taste",
+          "Chopped parsley for garnish"
+        ],
+        "cooking_method": "Cook the spaghetti in a large pot of salted boiling water according to package instructions. Drain and set aside. Meanwhile, in a large bowl, combine the ground beef, diced onion, minced garlic, breadcrumbs, grated Parmesan cheese, beaten egg, and milk. Season the mixture with salt and pepper to taste and mix well. Roll the mixture into meatballs about 1 inch in diameter. Heat the olive oil in a large skillet over medium-high heat. Add the meatballs and cook for 2-3 minutes, or until browned on all sides. Remove the meatballs from the skillet and set aside. Add the spaghetti sauce to the skillet and bring to a simmer. Add the meatballs to the skillet and toss to coat with the sauce. Reduce the heat to medium-low and simmer for 10-15 minutes, or until the meatballs are cooked through. Serve the meatballs and sauce over the cooked spaghetti. Garnish with chopped parsley.",
+        "rating": 4.7,
+        "isFavorite": false
+      },
+      {
+        "id": 7,
+        "inque_id": 113,
+        "chef_name": "Chef John",
+        "recipe_name": "Chicken Parmesan",
+        "ingredients": [
+          "4 boneless, skinless chicken breasts",
+          "1 cup Italian-seasoned breadcrumbs",
+          "1/2 cup grated Parmesan cheese",
+          "1/2 cup all-purpose flour",
+          "2 eggs, beaten",
+          "2 cups marinara sauce",
+          "2 cups shredded mozzarella cheese",
+          "2 tbsp olive oil",
+          "Salt and pepper to taste",
+          "Chopped parsley for garnish"
+        ],
+        "cooking_method": "Preheat the oven to 375°F (190°C). Place the flour, beaten eggs, and Italian-seasoned breadcrumbs in separate bowls. Season the chicken breasts with salt and pepper to taste. Coat each chicken breast in the flour, then dip in the beaten eggs, and coat in the breadcrumbs, pressing the breadcrumbs onto the chicken to adhere. Heat the olive oil in a large skillet over medium-high heat. Add the chicken breasts and cook for 2-3 minutes per side, or until golden brown. Remove the chicken from the skillet and set aside. Pour the marinara sauce into the skillet and bring to a simmer. Place the chicken breasts on top of the sauce, spooning some of the sauce over the chicken. Sprinkle the shredded mozzarella cheese over the chicken. Bake for 25-30 minutes, or until the chicken is cooked through and the cheese is melted and bubbly. Garnish with chopped parsley and serve hot.",
+        "rating": 4.9,
+        "isFavorite": false
+      },
+      {
+        "id":5 ,
+        "inque_id": 114,
+        "chef_name": "Chef John",
+        "recipe_name": "Lemon Chicken",
+        "ingredients": [
+          "4 boneless, skinless chicken breasts",
+          "1/4 cup all-purpose flour",
+          "Salt and pepper to taste",
+          "2 tbsp olive oil",
+          "2 tbsp butter",
+          "1/2 cup chicken broth",
+          "1/4 cup lemon juice",
+          "1/4 cup capers",
+          "Chopped parsley for garnish"
+        ],
+        "cooking_method": "Place the flour in a shallow bowl and season with salt and pepper to taste. Dredge the chicken breasts in the flour, shaking off any excess. Heat the olive oil and butter in a large skillet over medium-high heat. Add the chicken breasts and cook for 4-5 minutes per side, or until golden brown and cooked through. Remove the chicken from the skillet and set aside. Add the chicken broth, lemon juice, and capers to the skillet, scraping up any browned bits from the bottom of the skillet. Simmer for 2-3 minutes, or until the sauce has thickened slightly. Return the chicken to the skillet and spoon some of the sauce over the chicken. Garnish with chopped parsley and serve hot.",
+        "rating": 4.7,
+        "isFavorite": false
+      }
+    ]
